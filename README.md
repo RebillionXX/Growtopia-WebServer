@@ -5,5 +5,6 @@
 - [ ] Meta Key generating algorithm
 - [ ] Holding Meta Key as a temporary cache and import them on caching server
 - [ ] Checking for the correctness of user's Meta Key
+- [ ] **POST** method response for **"/server_data.php"**
 - [ ] Getting available Game Server IP Address and Port on Load Balancer and parse it down on **server_data.php** response
 - [ ] Easily Game Server maintaining
